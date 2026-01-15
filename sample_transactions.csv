@@ -1,0 +1,601 @@
+date,merchant,category,amount
+2024-01-01,Verizon,Utilities,-149.18
+2024-01-02,Uber,Transport,-67.13
+2024-01-02,Trader Joe's,Groceries,-146.51
+2024-01-02,Target,Shopping,-137.56
+2024-01-02,Starbucks,Dining,-114.69
+2024-01-04,Starbucks,Dining,-8.4
+2024-01-04,ConEd,Utilities,-173.77
+2024-01-04,Walgreens,Health,-90.94
+2024-01-05,Uber,Transport,-22.49
+2024-01-06,Paycheck,Income,2099.0
+2024-01-06,Uber,Transport,-29.62
+2024-01-09,Walgreens,Health,-50.72
+2024-01-09,Chipotle,Dining,-127.76
+2024-01-12,Sweetgreen,Dining,-164.35
+2024-01-13,Walgreens,Health,-104.84
+2024-01-13,Spotify,Subscriptions,-31.44
+2024-01-14,Spotify,Subscriptions,-13.32
+2024-01-16,Rent Payment,Housing,-1690.0
+2024-01-21,Exxon,Gas,-16.84
+2024-01-22,Rent Payment,Housing,-2011.0
+2024-01-22,Uber,Transport,-71.67
+2024-01-23,Walgreens,Health,-113.99
+2024-01-26,Whole Foods,Groceries,-9.3
+2024-01-27,CVS,Health,-10.17
+2024-01-27,Paycheck,Income,2541.0
+2024-01-28,Netflix,Subscriptions,-15.91
+2024-01-28,Planet Fitness,Subscriptions,-28.65
+2024-02-02,Netflix,Subscriptions,-11.18
+2024-02-02,CVS,Health,-36.63
+2024-02-04,Amazon,Shopping,-81.29
+2024-02-04,Paycheck,Income,1224.0
+2024-02-04,Netflix,Subscriptions,-16.81
+2024-02-04,Starbucks,Dining,-25.77
+2024-02-05,Netflix,Subscriptions,-14.09
+2024-02-05,Rent Payment,Housing,-1823.0
+2024-02-06,CVS,Health,-17.72
+2024-02-06,Verizon,Utilities,-133.11
+2024-02-06,Spotify,Subscriptions,-24.01
+2024-02-08,Planet Fitness,Subscriptions,-25.3
+2024-02-08,Whole Foods,Groceries,-90.62
+2024-02-08,Target,Shopping,-132.62
+2024-02-08,Trader Joe's,Groceries,-89.91
+2024-02-10,ConEd,Utilities,-149.89
+2024-02-10,Walgreens,Health,-15.91
+2024-02-11,Lyft,Transport,-61.51
+2024-02-11,Verizon,Utilities,-123.23
+2024-02-12,Paycheck,Income,2471.0
+2024-02-13,Verizon,Utilities,-51.12
+2024-02-17,Starbucks,Dining,-45.87
+2024-02-17,ConEd,Utilities,-60.86
+2024-02-17,Uber,Transport,-56.44
+2024-02-19,CVS,Health,-23.54
+2024-02-19,Verizon,Utilities,-178.49
+2024-02-20,Verizon,Utilities,-86.25
+2024-02-21,Rent Payment,Housing,-2027.0
+2024-02-21,CVS,Health,-18.59
+2024-02-21,Trader Joe's,Groceries,-15.08
+2024-02-21,Whole Foods,Groceries,-47.94
+2024-02-21,Amazon,Shopping,-65.24
+2024-02-21,Starbucks,Dining,-75.26
+2024-02-21,Sweetgreen,Dining,-93.34
+2024-02-22,Planet Fitness,Subscriptions,-8.03
+2024-02-22,Paycheck,Income,2395.0
+2024-02-22,Paycheck,Income,1872.0
+2024-02-22,Verizon,Utilities,-114.05
+2024-02-22,Exxon,Gas,-79.44
+2024-02-23,Trader Joe's,Groceries,-165.97
+2024-02-23,Whole Foods,Groceries,-11.11
+2024-02-23,Whole Foods,Groceries,-13.77
+2024-02-23,Sweetgreen,Dining,-37.89
+2024-02-24,Spotify,Subscriptions,-22.09
+2024-02-24,CVS,Health,-30.11
+2024-02-27,Starbucks,Dining,-173.7
+2024-02-27,Whole Foods,Groceries,-123.53
+2024-02-27,ConEd,Utilities,-54.95
+2024-02-29,Walgreens,Health,-52.09
+2024-03-02,Amazon,Shopping,-145.96
+2024-03-02,Whole Foods,Groceries,-12.37
+2024-03-02,Rent Payment,Housing,-1625.0
+2024-03-02,Sweetgreen,Dining,-96.97
+2024-03-02,Lyft,Transport,-19.14
+2024-03-02,Trader Joe's,Groceries,-19.73
+2024-03-02,Spotify,Subscriptions,-14.57
+2024-03-03,Rent Payment,Housing,-1590.0
+2024-03-03,Lyft,Transport,-13.17
+2024-03-03,Sweetgreen,Dining,-63.15
+2024-03-06,Rent Payment,Housing,-2016.0
+2024-03-06,Paycheck,Income,2004.0
+2024-03-06,Target,Shopping,-58.79
+2024-03-08,Starbucks,Dining,-40.17
+2024-03-09,Target,Shopping,-19.29
+2024-03-09,ConEd,Utilities,-156.29
+2024-03-09,Exxon,Gas,-73.13
+2024-03-09,Amazon,Shopping,-35.4
+2024-03-09,Target,Shopping,-114.46
+2024-03-09,ConEd,Utilities,-119.12
+2024-03-09,Netflix,Subscriptions,-31.22
+2024-03-12,Walgreens,Health,-37.76
+2024-03-15,Trader Joe's,Groceries,-30.79
+2024-03-15,Trader Joe's,Groceries,-50.03
+2024-03-15,CVS,Health,-101.57
+2024-03-15,Spotify,Subscriptions,-34.0
+2024-03-21,Shell,Gas,-57.86
+2024-03-21,Rent Payment,Housing,-1238.0
+2024-03-21,Starbucks,Dining,-23.38
+2024-03-21,Starbucks,Dining,-142.47
+2024-03-21,Chipotle,Dining,-77.06
+2024-03-21,Rent Payment,Housing,-1602.0
+2024-03-24,Netflix,Subscriptions,-16.3
+2024-03-24,Sweetgreen,Dining,-47.85
+2024-03-26,Rent Payment,Housing,-1716.0
+2024-03-26,Shell,Gas,-27.66
+2024-03-26,Trader Joe's,Groceries,-87.09
+2024-03-28,Exxon,Gas,-86.03
+2024-03-28,Verizon,Utilities,-171.1
+2024-03-28,ConEd,Utilities,-62.34
+2024-03-28,Spotify,Subscriptions,-18.72
+2024-03-29,Exxon,Gas,-83.15
+2024-03-29,Shell,Gas,-28.56
+2024-03-29,Spotify,Subscriptions,-25.02
+2024-03-29,Starbucks,Dining,-59.95
+2024-03-29,Exxon,Gas,-44.58
+2024-03-30,Target,Shopping,-82.73
+2024-03-30,Sweetgreen,Dining,-80.88
+2024-04-01,Starbucks,Dining,-132.89
+2024-04-02,Uber,Transport,-76.88
+2024-04-03,Whole Foods,Groceries,-48.86
+2024-04-04,Chipotle,Dining,-110.73
+2024-04-04,Sweetgreen,Dining,-45.54
+2024-04-05,Spotify,Subscriptions,-15.08
+2024-04-08,Paycheck,Income,1677.0
+2024-04-08,Spotify,Subscriptions,-8.94
+2024-04-08,Uber,Transport,-69.86
+2024-04-08,Netflix,Subscriptions,-32.8
+2024-04-08,Amazon,Shopping,-97.66
+2024-04-08,ConEd,Utilities,-97.19
+2024-04-08,Sweetgreen,Dining,-112.3
+2024-04-08,CVS,Health,-63.39
+2024-04-09,Walgreens,Health,-77.74
+2024-04-09,Amazon,Shopping,-47.55
+2024-04-10,Starbucks,Dining,-169.1
+2024-04-10,Paycheck,Income,1512.0
+2024-04-10,Walgreens,Health,-93.4
+2024-04-10,Spotify,Subscriptions,-33.16
+2024-04-12,Rent Payment,Housing,-2135.0
+2024-04-12,Rent Payment,Housing,-1884.0
+2024-04-12,Rent Payment,Housing,-1486.0
+2024-04-12,Chipotle,Dining,-85.78
+2024-04-12,Whole Foods,Groceries,-102.9
+2024-04-15,Lyft,Transport,-40.02
+2024-04-17,Chipotle,Dining,-20.05
+2024-04-17,ConEd,Utilities,-111.71
+2024-04-17,Shell,Gas,-65.6
+2024-04-17,Whole Foods,Groceries,-142.79
+2024-04-18,Lyft,Transport,-70.92
+2024-04-18,Chipotle,Dining,-19.44
+2024-04-21,Chipotle,Dining,-143.24
+2024-04-21,Rent Payment,Housing,-1885.0
+2024-04-22,Trader Joe's,Groceries,-26.33
+2024-04-22,Paycheck,Income,1465.0
+2024-04-22,ConEd,Utilities,-60.77
+2024-04-22,Shell,Gas,-31.55
+2024-04-23,Target,Shopping,-35.65
+2024-04-23,Verizon,Utilities,-137.65
+2024-04-23,Trader Joe's,Groceries,-111.09
+2024-04-23,Spotify,Subscriptions,-8.82
+2024-04-23,Whole Foods,Groceries,-22.24
+2024-04-24,Walgreens,Health,-37.66
+2024-04-25,Starbucks,Dining,-35.53
+2024-04-25,Starbucks,Dining,-175.6
+2024-04-26,Walgreens,Health,-24.95
+2024-04-26,Whole Foods,Groceries,-129.6
+2024-04-27,Chipotle,Dining,-61.66
+2024-04-29,Rent Payment,Housing,-1303.0
+2024-05-01,Walgreens,Health,-62.45
+2024-05-01,Amazon,Shopping,-114.06
+2024-05-01,Amazon,Shopping,-8.06
+2024-05-02,Paycheck,Income,1312.0
+2024-05-02,Spotify,Subscriptions,-18.37
+2024-05-03,Starbucks,Dining,-23.21
+2024-05-03,Paycheck,Income,1720.0
+2024-05-04,Planet Fitness,Subscriptions,-20.96
+2024-05-04,Target,Shopping,-13.84
+2024-05-04,Exxon,Gas,-47.89
+2024-05-04,Exxon,Gas,-71.51
+2024-05-05,Rent Payment,Housing,-1287.0
+2024-05-07,Sweetgreen,Dining,-41.0
+2024-05-07,Amazon,Shopping,-69.06
+2024-05-07,ConEd,Utilities,-154.29
+2024-05-08,Paycheck,Income,1918.0
+2024-05-09,Sweetgreen,Dining,-110.77
+2024-05-09,Uber,Transport,-22.74
+2024-05-09,Exxon,Gas,-17.73
+2024-05-10,Exxon,Gas,-71.7
+2024-05-10,Sweetgreen,Dining,-93.67
+2024-05-12,Amazon,Shopping,-131.7
+2024-05-12,Uber,Transport,-74.85
+2024-05-12,Verizon,Utilities,-93.29
+2024-05-12,Rent Payment,Housing,-1455.0
+2024-05-13,CVS,Health,-80.29
+2024-05-14,Starbucks,Dining,-50.32
+2024-05-14,Planet Fitness,Subscriptions,-12.1
+2024-05-14,Target,Shopping,-121.66
+2024-05-14,Trader Joe's,Groceries,-103.93
+2024-05-15,Uber,Transport,-13.33
+2024-05-15,Target,Shopping,-45.98
+2024-05-16,CVS,Health,-55.48
+2024-05-16,ConEd,Utilities,-120.14
+2024-05-18,Trader Joe's,Groceries,-176.12
+2024-05-19,Chipotle,Dining,-36.97
+2024-05-19,Lyft,Transport,-41.29
+2024-05-22,Uber,Transport,-38.26
+2024-05-23,Spotify,Subscriptions,-18.38
+2024-05-23,CVS,Health,-19.21
+2024-05-23,Spotify,Subscriptions,-14.81
+2024-05-23,Trader Joe's,Groceries,-30.66
+2024-05-23,Sweetgreen,Dining,-179.43
+2024-05-23,ConEd,Utilities,-68.89
+2024-05-26,Uber,Transport,-57.88
+2024-05-26,Verizon,Utilities,-60.64
+2024-05-26,Rent Payment,Housing,-1613.0
+2024-05-26,Shell,Gas,-83.84
+2024-05-26,Starbucks,Dining,-118.42
+2024-05-26,Shell,Gas,-77.71
+2024-05-27,Exxon,Gas,-24.82
+2024-05-27,ConEd,Utilities,-127.85
+2024-05-29,Exxon,Gas,-65.24
+2024-05-29,Uber,Transport,-46.16
+2024-05-30,Exxon,Gas,-13.76
+2024-05-30,Chipotle,Dining,-68.01
+2024-05-30,Spotify,Subscriptions,-10.22
+2024-05-30,Sweetgreen,Dining,-68.15
+2024-05-31,Amazon,Shopping,-70.84
+2024-05-31,Uber,Transport,-21.99
+2024-05-31,Lyft,Transport,-49.46
+2024-05-31,Starbucks,Dining,-39.35
+2024-06-01,Uber,Transport,-69.86
+2024-06-01,Walgreens,Health,-65.3
+2024-06-01,Lyft,Transport,-23.09
+2024-06-01,Lyft,Transport,-35.38
+2024-06-05,Netflix,Subscriptions,-12.78
+2024-06-06,Trader Joe's,Groceries,-39.13
+2024-06-06,Sweetgreen,Dining,-52.17
+2024-06-06,Lyft,Transport,-69.54
+2024-06-08,CVS,Health,-81.09
+2024-06-08,CVS,Health,-93.89
+2024-06-09,Lyft,Transport,-16.42
+2024-06-11,Uber,Transport,-76.24
+2024-06-11,CVS,Health,-53.06
+2024-06-11,Chipotle,Dining,-31.02
+2024-06-12,Lyft,Transport,-13.55
+2024-06-15,Exxon,Gas,-57.06
+2024-06-15,Spotify,Subscriptions,-19.07
+2024-06-15,Sweetgreen,Dining,-132.23
+2024-06-16,Planet Fitness,Subscriptions,-18.33
+2024-06-18,Planet Fitness,Subscriptions,-29.92
+2024-06-18,Chipotle,Dining,-46.6
+2024-06-18,Uber,Transport,-87.59
+2024-06-19,Paycheck,Income,1605.0
+2024-06-20,Shell,Gas,-68.91
+2024-06-20,CVS,Health,-104.98
+2024-06-20,Walgreens,Health,-116.93
+2024-06-20,Exxon,Gas,-74.76
+2024-06-20,Verizon,Utilities,-145.47
+2024-06-21,Verizon,Utilities,-60.1
+2024-06-22,Whole Foods,Groceries,-85.3
+2024-06-23,Paycheck,Income,2395.0
+2024-06-24,Uber,Transport,-23.57
+2024-06-26,Verizon,Utilities,-61.65
+2024-06-27,Sweetgreen,Dining,-156.72
+2024-06-28,Sweetgreen,Dining,-158.21
+2024-06-28,Whole Foods,Groceries,-27.48
+2024-06-28,Chipotle,Dining,-96.62
+2024-06-28,Exxon,Gas,-69.39
+2024-06-28,Planet Fitness,Subscriptions,-18.72
+2024-06-29,Lyft,Transport,-18.73
+2024-06-29,Paycheck,Income,2117.0
+2024-07-02,Rent Payment,Housing,-1897.0
+2024-07-06,Amazon,Shopping,-71.96
+2024-07-06,Shell,Gas,-19.86
+2024-07-06,Netflix,Subscriptions,-24.6
+2024-07-06,Netflix,Subscriptions,-26.72
+2024-07-06,Uber,Transport,-38.27
+2024-07-07,Rent Payment,Housing,-1344.0
+2024-07-07,Rent Payment,Housing,-2077.0
+2024-07-08,Starbucks,Dining,-39.73
+2024-07-08,Spotify,Subscriptions,-14.96
+2024-07-08,ConEd,Utilities,-177.37
+2024-07-08,Planet Fitness,Subscriptions,-9.68
+2024-07-09,Trader Joe's,Groceries,-114.78
+2024-07-10,Trader Joe's,Groceries,-55.06
+2024-07-10,Target,Shopping,-66.67
+2024-07-10,Chipotle,Dining,-15.01
+2024-07-10,Shell,Gas,-31.86
+2024-07-10,Netflix,Subscriptions,-10.73
+2024-07-10,Walgreens,Health,-105.36
+2024-07-10,CVS,Health,-19.3
+2024-07-13,Netflix,Subscriptions,-15.95
+2024-07-14,Amazon,Shopping,-28.75
+2024-07-16,CVS,Health,-39.68
+2024-07-16,Trader Joe's,Groceries,-179.9
+2024-07-16,Paycheck,Income,1329.0
+2024-07-16,Target,Shopping,-80.97
+2024-07-16,Sweetgreen,Dining,-179.6
+2024-07-19,Netflix,Subscriptions,-34.58
+2024-07-20,Spotify,Subscriptions,-24.95
+2024-07-21,Lyft,Transport,-66.72
+2024-07-21,Amazon,Shopping,-76.43
+2024-07-24,Lyft,Transport,-79.32
+2024-07-24,Rent Payment,Housing,-1692.0
+2024-07-25,Uber,Transport,-43.89
+2024-07-25,Chipotle,Dining,-143.89
+2024-07-26,Lyft,Transport,-21.38
+2024-07-26,Starbucks,Dining,-23.75
+2024-08-02,Whole Foods,Groceries,-31.88
+2024-08-02,Exxon,Gas,-82.0
+2024-08-02,Trader Joe's,Groceries,-136.57
+2024-08-02,Rent Payment,Housing,-1206.0
+2024-08-02,Lyft,Transport,-35.8
+2024-08-02,Chipotle,Dining,-19.15
+2024-08-02,Starbucks,Dining,-18.9
+2024-08-02,Chipotle,Dining,-104.44
+2024-08-02,Chipotle,Dining,-84.03
+2024-08-02,Shell,Gas,-69.2
+2024-08-02,Rent Payment,Housing,-1836.0
+2024-08-03,Amazon,Shopping,-100.27
+2024-08-03,Sweetgreen,Dining,-81.18
+2024-08-03,Verizon,Utilities,-64.29
+2024-08-03,CVS,Health,-61.95
+2024-08-04,Netflix,Subscriptions,-24.29
+2024-08-04,Chipotle,Dining,-149.48
+2024-08-04,ConEd,Utilities,-142.59
+2024-08-05,Walgreens,Health,-104.84
+2024-08-05,Rent Payment,Housing,-1300.0
+2024-08-05,Netflix,Subscriptions,-9.27
+2024-08-05,Lyft,Transport,-24.92
+2024-08-05,CVS,Health,-66.92
+2024-08-05,Amazon,Shopping,-107.48
+2024-08-05,ConEd,Utilities,-132.66
+2024-08-05,Spotify,Subscriptions,-26.37
+2024-08-05,Verizon,Utilities,-59.48
+2024-08-05,Spotify,Subscriptions,-34.96
+2024-08-05,Rent Payment,Housing,-1644.0
+2024-08-05,Rent Payment,Housing,-1954.0
+2024-08-07,Chipotle,Dining,-133.67
+2024-08-09,Trader Joe's,Groceries,-155.57
+2024-08-10,Exxon,Gas,-45.9
+2024-08-10,Trader Joe's,Groceries,-151.13
+2024-08-10,Rent Payment,Housing,-1975.0
+2024-08-10,CVS,Health,-17.53
+2024-08-11,Trader Joe's,Groceries,-116.96
+2024-08-12,Shell,Gas,-83.53
+2024-08-12,Walgreens,Health,-65.78
+2024-08-12,ConEd,Utilities,-93.74
+2024-08-12,Trader Joe's,Groceries,-121.8
+2024-08-13,Netflix,Subscriptions,-12.02
+2024-08-16,ConEd,Utilities,-177.77
+2024-08-16,Netflix,Subscriptions,-24.22
+2024-08-18,Spotify,Subscriptions,-32.06
+2024-08-18,Rent Payment,Housing,-2090.0
+2024-08-18,Paycheck,Income,2336.0
+2024-08-18,Verizon,Utilities,-96.73
+2024-08-18,Lyft,Transport,-73.5
+2024-08-18,Rent Payment,Housing,-1780.0
+2024-08-18,Rent Payment,Housing,-2001.0
+2024-08-18,Exxon,Gas,-73.98
+2024-08-20,Uber,Transport,-65.5
+2024-08-20,Lyft,Transport,-85.52
+2024-08-20,Target,Shopping,-36.47
+2024-08-20,Starbucks,Dining,-96.29
+2024-08-20,Planet Fitness,Subscriptions,-27.13
+2024-08-20,Starbucks,Dining,-173.05
+2024-08-21,Verizon,Utilities,-53.02
+2024-08-22,Exxon,Gas,-70.88
+2024-08-22,Starbucks,Dining,-9.9
+2024-08-22,Trader Joe's,Groceries,-139.14
+2024-08-24,Lyft,Transport,-69.54
+2024-08-24,Target,Shopping,-156.73
+2024-08-24,Netflix,Subscriptions,-17.1
+2024-08-24,Lyft,Transport,-21.89
+2024-08-24,Amazon,Shopping,-138.74
+2024-08-25,ConEd,Utilities,-72.65
+2024-08-26,Shell,Gas,-76.02
+2024-08-27,Shell,Gas,-49.64
+2024-08-28,Walgreens,Health,-39.78
+2024-08-29,Walgreens,Health,-104.54
+2024-08-29,Target,Shopping,-41.22
+2024-08-30,Walgreens,Health,-81.64
+2024-08-30,Chipotle,Dining,-107.92
+2024-08-31,Starbucks,Dining,-134.46
+2024-09-02,Target,Shopping,-86.28
+2024-09-03,Paycheck,Income,1482.0
+2024-09-03,Shell,Gas,-85.07
+2024-09-03,Verizon,Utilities,-128.64
+2024-09-03,CVS,Health,-37.89
+2024-09-03,Paycheck,Income,1619.0
+2024-09-06,Exxon,Gas,-80.13
+2024-09-08,Whole Foods,Groceries,-97.05
+2024-09-08,Whole Foods,Groceries,-71.51
+2024-09-08,Planet Fitness,Subscriptions,-28.32
+2024-09-08,Shell,Gas,-11.39
+2024-09-08,Amazon,Shopping,-145.73
+2024-09-08,Verizon,Utilities,-63.08
+2024-09-09,Exxon,Gas,-76.01
+2024-09-10,Target,Shopping,-97.87
+2024-09-10,Planet Fitness,Subscriptions,-23.25
+2024-09-11,Spotify,Subscriptions,-8.14
+2024-09-11,Shell,Gas,-13.5
+2024-09-13,Verizon,Utilities,-91.89
+2024-09-14,Amazon,Shopping,-163.04
+2024-09-14,Target,Shopping,-107.27
+2024-09-18,Trader Joe's,Groceries,-91.71
+2024-09-20,Paycheck,Income,1675.0
+2024-09-20,Verizon,Utilities,-73.25
+2024-09-20,ConEd,Utilities,-44.55
+2024-09-21,Planet Fitness,Subscriptions,-25.58
+2024-09-21,Exxon,Gas,-51.22
+2024-09-21,CVS,Health,-37.56
+2024-09-21,Exxon,Gas,-36.76
+2024-09-23,Trader Joe's,Groceries,-55.22
+2024-09-23,Verizon,Utilities,-137.67
+2024-09-24,Walgreens,Health,-76.43
+2024-09-24,Sweetgreen,Dining,-131.68
+2024-09-24,Verizon,Utilities,-58.64
+2024-09-24,Verizon,Utilities,-90.42
+2024-09-25,Amazon,Shopping,-32.02
+2024-09-25,Uber,Transport,-80.41
+2024-09-25,CVS,Health,-114.48
+2024-09-27,Uber,Transport,-11.77
+2024-09-27,Spotify,Subscriptions,-30.8
+2024-09-27,Uber,Transport,-51.53
+2024-09-27,CVS,Health,-52.2
+2024-09-29,Chipotle,Dining,-99.67
+2024-09-29,ConEd,Utilities,-57.86
+2024-09-29,Spotify,Subscriptions,-21.66
+2024-09-29,Paycheck,Income,1398.0
+2024-10-01,Amazon,Shopping,-75.49
+2024-10-03,Amazon,Shopping,-107.97
+2024-10-03,Target,Shopping,-113.78
+2024-10-03,Rent Payment,Housing,-1779.0
+2024-10-04,Planet Fitness,Subscriptions,-12.39
+2024-10-05,Rent Payment,Housing,-1230.0
+2024-10-05,Uber,Transport,-18.33
+2024-10-05,Exxon,Gas,-61.56
+2024-10-06,Planet Fitness,Subscriptions,-29.92
+2024-10-06,Verizon,Utilities,-57.85
+2024-10-06,Spotify,Subscriptions,-31.72
+2024-10-06,CVS,Health,-113.99
+2024-10-06,ConEd,Utilities,-59.62
+2024-10-09,Chipotle,Dining,-162.15
+2024-10-09,Sweetgreen,Dining,-87.01
+2024-10-10,Chipotle,Dining,-71.25
+2024-10-10,Uber,Transport,-64.24
+2024-10-10,Netflix,Subscriptions,-20.72
+2024-10-10,Trader Joe's,Groceries,-103.76
+2024-10-10,CVS,Health,-18.51
+2024-10-11,Lyft,Transport,-25.41
+2024-10-11,Netflix,Subscriptions,-26.93
+2024-10-12,Trader Joe's,Groceries,-123.17
+2024-10-12,Chipotle,Dining,-157.51
+2024-10-12,Sweetgreen,Dining,-113.78
+2024-10-14,Whole Foods,Groceries,-152.83
+2024-10-14,Paycheck,Income,2131.0
+2024-10-15,Sweetgreen,Dining,-131.43
+2024-10-15,Spotify,Subscriptions,-14.34
+2024-10-15,Rent Payment,Housing,-1321.0
+2024-10-16,Exxon,Gas,-84.62
+2024-10-16,Chipotle,Dining,-157.66
+2024-10-16,Verizon,Utilities,-69.28
+2024-10-19,Shell,Gas,-64.66
+2024-10-19,Target,Shopping,-90.73
+2024-10-20,Rent Payment,Housing,-1731.0
+2024-10-20,Spotify,Subscriptions,-19.33
+2024-10-20,Trader Joe's,Groceries,-76.22
+2024-10-20,Shell,Gas,-10.61
+2024-10-20,Starbucks,Dining,-122.04
+2024-10-20,Paycheck,Income,1580.0
+2024-10-21,Walgreens,Health,-61.79
+2024-10-21,CVS,Health,-75.99
+2024-10-22,Starbucks,Dining,-127.07
+2024-10-24,Lyft,Transport,-44.89
+2024-10-28,Amazon,Shopping,-133.94
+2024-10-28,Uber,Transport,-50.18
+2024-10-30,Netflix,Subscriptions,-24.69
+2024-10-30,Walgreens,Health,-60.71
+2024-10-30,Uber,Transport,-71.48
+2024-10-30,Amazon,Shopping,-99.61
+2024-10-31,Starbucks,Dining,-91.21
+2024-11-01,Netflix,Subscriptions,-22.12
+2024-11-02,Planet Fitness,Subscriptions,-17.22
+2024-11-02,Planet Fitness,Subscriptions,-22.83
+2024-11-02,Trader Joe's,Groceries,-119.83
+2024-11-04,Whole Foods,Groceries,-141.39
+2024-11-05,Exxon,Gas,-89.37
+2024-11-06,Whole Foods,Groceries,-147.13
+2024-11-06,Starbucks,Dining,-70.45
+2024-11-08,ConEd,Utilities,-44.38
+2024-11-08,Shell,Gas,-70.34
+2024-11-09,Exxon,Gas,-20.31
+2024-11-09,Target,Shopping,-21.06
+2024-11-11,Rent Payment,Housing,-1747.0
+2024-11-11,Chipotle,Dining,-40.74
+2024-11-11,Paycheck,Income,2098.0
+2024-11-11,Amazon,Shopping,-64.25
+2024-11-12,Starbucks,Dining,-166.67
+2024-11-13,Starbucks,Dining,-102.53
+2024-11-13,Verizon,Utilities,-136.77
+2024-11-13,Sweetgreen,Dining,-173.41
+2024-11-14,Chipotle,Dining,-10.08
+2024-11-14,Amazon,Shopping,-109.52
+2024-11-14,Trader Joe's,Groceries,-67.9
+2024-11-16,Amazon,Shopping,-52.69
+2024-11-17,Rent Payment,Housing,-1372.0
+2024-11-18,Paycheck,Income,2507.0
+2024-11-18,Uber,Transport,-31.2
+2024-11-18,Chipotle,Dining,-163.0
+2024-11-18,Lyft,Transport,-21.15
+2024-11-19,Target,Shopping,-153.6
+2024-11-20,Netflix,Subscriptions,-19.86
+2024-11-20,Netflix,Subscriptions,-29.59
+2024-11-20,Spotify,Subscriptions,-10.34
+2024-11-20,Sweetgreen,Dining,-144.0
+2024-11-20,Trader Joe's,Groceries,-111.52
+2024-11-20,Chipotle,Dining,-47.09
+2024-11-21,Target,Shopping,-39.06
+2024-11-23,Walgreens,Health,-62.66
+2024-11-23,Chipotle,Dining,-123.49
+2024-11-24,Spotify,Subscriptions,-21.47
+2024-11-25,Shell,Gas,-17.03
+2024-11-25,ConEd,Utilities,-147.48
+2024-11-26,Exxon,Gas,-37.4
+2024-11-26,Lyft,Transport,-75.75
+2024-11-26,Sweetgreen,Dining,-114.4
+2024-11-26,Exxon,Gas,-29.0
+2024-12-01,Whole Foods,Groceries,-70.33
+2024-12-01,Trader Joe's,Groceries,-145.18
+2024-12-02,Netflix,Subscriptions,-24.15
+2024-12-03,Paycheck,Income,1533.0
+2024-12-03,Netflix,Subscriptions,-13.54
+2024-12-03,Planet Fitness,Subscriptions,-8.48
+2024-12-03,Starbucks,Dining,-16.39
+2024-12-04,Shell,Gas,-27.04
+2024-12-04,Spotify,Subscriptions,-32.32
+2024-12-04,Trader Joe's,Groceries,-46.46
+2024-12-05,CVS,Health,-15.45
+2024-12-05,Shell,Gas,-62.72
+2024-12-05,Sweetgreen,Dining,-81.3
+2024-12-05,Spotify,Subscriptions,-34.56
+2024-12-05,ConEd,Utilities,-144.95
+2024-12-05,Walgreens,Health,-107.76
+2024-12-06,Spotify,Subscriptions,-13.43
+2024-12-07,Verizon,Utilities,-60.94
+2024-12-07,ConEd,Utilities,-144.4
+2024-12-07,Exxon,Gas,-59.57
+2024-12-07,Netflix,Subscriptions,-13.03
+2024-12-07,Planet Fitness,Subscriptions,-10.03
+2024-12-07,Paycheck,Income,1382.0
+2024-12-07,Shell,Gas,-40.05
+2024-12-09,Exxon,Gas,-80.9
+2024-12-09,Shell,Gas,-70.5
+2024-12-10,Netflix,Subscriptions,-33.23
+2024-12-10,Shell,Gas,-33.1
+2024-12-10,CVS,Health,-51.82
+2024-12-11,Chipotle,Dining,-178.59
+2024-12-11,Uber,Transport,-65.76
+2024-12-11,Whole Foods,Groceries,-141.04
+2024-12-11,Walgreens,Health,-23.44
+2024-12-11,Spotify,Subscriptions,-13.84
+2024-12-13,Trader Joe's,Groceries,-63.44
+2024-12-14,Starbucks,Dining,-38.71
+2024-12-14,Trader Joe's,Groceries,-169.16
+2024-12-14,CVS,Health,-48.95
+2024-12-14,Shell,Gas,-83.67
+2024-12-14,CVS,Health,-117.35
+2024-12-14,Starbucks,Dining,-148.11
+2024-12-15,Target,Shopping,-159.64
+2024-12-15,Trader Joe's,Groceries,-68.3
+2024-12-15,Rent Payment,Housing,-1847.0
+2024-12-15,Whole Foods,Groceries,-136.59
+2024-12-16,Sweetgreen,Dining,-8.91
+2024-12-16,Amazon,Shopping,-165.26
+2024-12-17,Spotify,Subscriptions,-27.1
+2024-12-20,Lyft,Transport,-43.93
+2024-12-20,ConEd,Utilities,-68.9
+2024-12-20,Walgreens,Health,-42.73
+2024-12-20,Chipotle,Dining,-39.9
+2024-12-22,Exxon,Gas,-78.99
+2024-12-22,Lyft,Transport,-76.02
+2024-12-24,Verizon,Utilities,-122.36
+2024-12-24,Spotify,Subscriptions,-20.11
+2024-12-25,Starbucks,Dining,-160.5
+2024-12-25,Shell,Gas,-67.99
+2024-12-25,Lyft,Transport,-40.56
+2024-12-25,Sweetgreen,Dining,-67.45
+2024-12-25,Trader Joe's,Groceries,-138.49
+2024-12-25,Shell,Gas,-60.58
+2024-12-26,Whole Foods,Groceries,-152.63
+2024-12-30,Whole Foods,Groceries,-95.44
+2024-12-31,Rent Payment,Housing,-1993.0
+2024-12-31,Shell,Gas,-57.92
